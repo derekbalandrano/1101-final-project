@@ -1,5 +1,3 @@
-# My first commit
-print("Hello World")
 # New comment
 # Import libraries and packages, they contain additional functions.
 from flask import Flask, render_template
